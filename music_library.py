@@ -6,6 +6,6 @@ music = {
     "iraaday" : "https://www.youtube.com/watch?v=Qwm6BSGrOq0&list=RDGMEMCMFH2exzjBeE_zAHHJOdxg&start_radio=1&rv=YuXLN23ZGQo",
     "shubh" : "https://www.youtube.com/watch?v=RLhuPD2ASKE&list=PLuXBepVDtfVDfj6bYU3jb5f0bdqE-ljVU",
     "sajni re" : "https://www.youtube.com/watch?v=LJLeu9W5LFA",
-    "khada" : "https://www.youtube.com/watch?v=qDcGgbakqIM",
+    
     
 }
